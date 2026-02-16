@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\beta\C#\Test9\Test9\bin\Debug\Test9.exe.config
+C:\Users\PC\Documents\beta\C#\Test9\Test9\bin\Debug\Test9.exe
+C:\Users\PC\Documents\beta\C#\Test9\Test9\bin\Debug\Test9.pdb
+C:\Users\PC\Documents\beta\C#\Test9\Test9\obj\Debug\Test9.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\beta\C#\Test9\Test9\obj\Debug\Test9.Form1.resources
+C:\Users\PC\Documents\beta\C#\Test9\Test9\obj\Debug\Test9.Properties.Resources.resources
+C:\Users\PC\Documents\beta\C#\Test9\Test9\obj\Debug\Test9.csproj.GenerateResource.cache
+C:\Users\PC\Documents\beta\C#\Test9\Test9\obj\Debug\Test9.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\beta\C#\Test9\Test9\obj\Debug\Test9.exe
+C:\Users\PC\Documents\beta\C#\Test9\Test9\obj\Debug\Test9.pdb

@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\beta\C#\Test7\Test7\bin\Debug\Test7.exe.config
+C:\Users\PC\Documents\beta\C#\Test7\Test7\bin\Debug\Test7.exe
+C:\Users\PC\Documents\beta\C#\Test7\Test7\bin\Debug\Test7.pdb
+C:\Users\PC\Documents\beta\C#\Test7\Test7\obj\Debug\Test7.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\beta\C#\Test7\Test7\obj\Debug\Test7.Form1.resources
+C:\Users\PC\Documents\beta\C#\Test7\Test7\obj\Debug\Test7.Properties.Resources.resources
+C:\Users\PC\Documents\beta\C#\Test7\Test7\obj\Debug\Test7.csproj.GenerateResource.cache
+C:\Users\PC\Documents\beta\C#\Test7\Test7\obj\Debug\Test7.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\beta\C#\Test7\Test7\obj\Debug\Test7.exe
+C:\Users\PC\Documents\beta\C#\Test7\Test7\obj\Debug\Test7.pdb

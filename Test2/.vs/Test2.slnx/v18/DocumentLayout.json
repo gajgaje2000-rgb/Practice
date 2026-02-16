@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\beta\\C#\\Test2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75134E3B-4367-4993-BC8D-E44E05812BB6}|Test2\\Test2.csproj|C:\\Users\\PC\\Documents\\beta\\C#\\Test2\\test2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75134E3B-4367-4993-BC8D-E44E05812BB6}|Test2\\Test2.csproj|solutionrelative:test2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75134E3B-4367-4993-BC8D-E44E05812BB6}|Test2\\Test2.csproj|c:\\users\\pc\\documents\\beta\\c#\\test2\\test2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{75134E3B-4367-4993-BC8D-E44E05812BB6}|Test2\\Test2.csproj|solutionrelative:test2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\beta\\C#\\Test2\\Test2\\Form1.cs",
+              "RelativeDocumentMoniker": "Test2\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\beta\\C#\\Test2\\Test2\\Form1.cs",
+              "RelativeToolTip": "Test2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T15:52:25.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\beta\\C#\\Test2\\Test2\\Form1.cs",
+              "RelativeDocumentMoniker": "Test2\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\beta\\C#\\Test2\\Test2\\Form1.cs [Design]",
+              "RelativeToolTip": "Test2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T15:50:56.418Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

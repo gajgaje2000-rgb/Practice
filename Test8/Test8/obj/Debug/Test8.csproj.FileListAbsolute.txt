@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\beta\C#\Test8\Test8\bin\Debug\Test8.exe.config
+C:\Users\PC\Documents\beta\C#\Test8\Test8\bin\Debug\Test8.exe
+C:\Users\PC\Documents\beta\C#\Test8\Test8\bin\Debug\Test8.pdb
+C:\Users\PC\Documents\beta\C#\Test8\Test8\obj\Debug\Test8.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\beta\C#\Test8\Test8\obj\Debug\Test8.Form1.resources
+C:\Users\PC\Documents\beta\C#\Test8\Test8\obj\Debug\Test8.Properties.Resources.resources
+C:\Users\PC\Documents\beta\C#\Test8\Test8\obj\Debug\Test8.csproj.GenerateResource.cache
+C:\Users\PC\Documents\beta\C#\Test8\Test8\obj\Debug\Test8.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\beta\C#\Test8\Test8\obj\Debug\Test8.exe
+C:\Users\PC\Documents\beta\C#\Test8\Test8\obj\Debug\Test8.pdb

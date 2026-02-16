@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\beta\C#\Test5\Test5\bin\Debug\Test5.exe.config
+C:\Users\PC\Documents\beta\C#\Test5\Test5\bin\Debug\Test5.exe
+C:\Users\PC\Documents\beta\C#\Test5\Test5\bin\Debug\Test5.pdb
+C:\Users\PC\Documents\beta\C#\Test5\Test5\obj\Debug\Test5.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\beta\C#\Test5\Test5\obj\Debug\Test5.Form1.resources
+C:\Users\PC\Documents\beta\C#\Test5\Test5\obj\Debug\Test5.Properties.Resources.resources
+C:\Users\PC\Documents\beta\C#\Test5\Test5\obj\Debug\Test5.csproj.GenerateResource.cache
+C:\Users\PC\Documents\beta\C#\Test5\Test5\obj\Debug\Test5.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\beta\C#\Test5\Test5\obj\Debug\Test5.exe
+C:\Users\PC\Documents\beta\C#\Test5\Test5\obj\Debug\Test5.pdb
