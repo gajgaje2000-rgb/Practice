@@ -1,0 +1,57 @@
+Setup (One Time)
+git --version
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+
+Create / Clone Repositories
+git init
+git clone https://github.com/owner/repo.git
+git remote -v
+
+Daily Workflow (Edit → Commit → Push)
+git status
+git add file1.js
+git add .
+git commit -m "short: explain what changed"
+git push -u origin main
+git push
+
+Branching (Feature Branches)
+git checkout -b feature/x
+git branch
+git push -u origin feature/x
+
+Updating Local Copy
+git fetch
+git pull
+git checkout main
+git pull origin main
+git checkout feature/x
+git rebase main
+
+Undo Mistakes
+git revert <commit>
+git commit --amend -m "new message"
+git reset --soft HEAD~1
+git reset --hard HEAD~1
+
+Merge Conflict Steps
+1. git status
+2. Resolve conflicts manually
+3. git add <resolved-file>
+4. git rebase --continue OR git commit
+5. git push
+.gitignore Example
+.DS_Store
+node_modules/
+dist/
+.gradle/
+build/
+.vscode/
+.idea/
+
+Useful Logs & Recovery
+git log --oneline --graph --decorate --all
+git show --name-only HEAD
+git reflog
+git checkout -b recovered <sha>

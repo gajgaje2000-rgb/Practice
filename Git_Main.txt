@@ -1,0 +1,51 @@
+Use Case 1: Creating a New Repository
+git init
+Initialize a new Git repository in your project folder.
+git add .
+Stage all project files.
+git commit -m "Initial commit"
+Create first commit with message.
+git remote add origin <repository-url>
+Connect local project to remote repository.
+git branch -M main
+Rename branch to main.
+git push -u origin main
+Push project to remote repository.
+
+Use Case 2: Downloading (Cloning) a Repository
+git clone <repository-url>
+Download remote repository to local machine.
+cd <repository-folder>
+Move into the cloned project directory.
+
+Use Case 3: Updating Local Repository
+git pull origin main
+Fetch and merge latest changes from remote branch.
+git fetch origin
+Download updates without merging.
+
+Use Case 4: Updating Remote Repository After Changes
+git status
+Check modified files.
+git add .
+Stage modified files.
+git commit -m "Update message"
+Commit your changes.
+git push origin main
+Upload committed changes to remote.
+
+Use Case 5: Creating and Merging Branches
+git branch feature-name
+Create a new branch.
+git checkout feature-name
+Switch to the new branch.
+git merge feature-name
+Merge feature branch into current branch.
+
+Use Case 6: Undoing or Fixing Mistakes
+git checkout -- <file>
+Discard changes in specific file.
+git reset --soft HEAD~1
+Undo last commit but keep changes staged.
+git reset --hard HEAD
+Discard all local changes permanently
